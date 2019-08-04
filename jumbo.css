@@ -1,0 +1,13 @@
+ .jumbotron{
+   border:10px solid darkslategrey;
+}
+body{
+  /* border:10px solid darkslategrey; */
+  max-width: 800px;
+  width: 80%;
+  margin: 100px auto;
+  padding: 20px;
+  padding-top: 40px;
+  padding-bottom: 8px;
+  background-color: floralwhite;
+}
